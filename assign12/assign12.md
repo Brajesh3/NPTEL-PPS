@@ -1,6 +1,6 @@
 # NPTEL Course Assignment Submission
 ## Problem Solving Through Programming in C
-**Assignment Submission for Semester 1**
+**Assignment Submission for october 16**
 
 - **Course Name:** Problem Solving Through Programming in C (PPS)
 - **Course Platform:** NPTEL
